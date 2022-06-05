@@ -1,0 +1,10 @@
+C:\Users\Riley Sun\OneDrive\桌面\Project_Keyboard\Project_Keyboard\bin\Debug\Project_Keyboard.exe.config
+C:\Users\Riley Sun\OneDrive\桌面\Project_Keyboard\Project_Keyboard\bin\Debug\Project_Keyboard.exe
+C:\Users\Riley Sun\OneDrive\桌面\Project_Keyboard\Project_Keyboard\bin\Debug\Project_Keyboard.pdb
+C:\Users\Riley Sun\OneDrive\桌面\Project_Keyboard\Project_Keyboard\obj\Debug\Project_Keyboard.csproj.AssemblyReference.cache
+C:\Users\Riley Sun\OneDrive\桌面\Project_Keyboard\Project_Keyboard\obj\Debug\Project_Keyboard.Form1.resources
+C:\Users\Riley Sun\OneDrive\桌面\Project_Keyboard\Project_Keyboard\obj\Debug\Project_Keyboard.Properties.Resources.resources
+C:\Users\Riley Sun\OneDrive\桌面\Project_Keyboard\Project_Keyboard\obj\Debug\Project_Keyboard.csproj.GenerateResource.cache
+C:\Users\Riley Sun\OneDrive\桌面\Project_Keyboard\Project_Keyboard\obj\Debug\Project_Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\Riley Sun\OneDrive\桌面\Project_Keyboard\Project_Keyboard\obj\Debug\Project_Keyboard.exe
+C:\Users\Riley Sun\OneDrive\桌面\Project_Keyboard\Project_Keyboard\obj\Debug\Project_Keyboard.pdb
